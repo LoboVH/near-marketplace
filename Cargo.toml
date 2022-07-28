@@ -1,7 +1,7 @@
 [package]
 name = "market"
 version = "0.1.0"
-authors = ["Your name <Youraddress@mail.com>"]
+authors = ["varsha haris<lobovarsha18@mail.com>"]
 edition = "2021"
 
 [lib]
